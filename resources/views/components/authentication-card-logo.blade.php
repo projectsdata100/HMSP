@@ -6,7 +6,7 @@
 </a>-->
     <img src="{{ asset('logo/medicalteam.png') }}" width="100px">
     
-<h1>dhkgdsjgfdsjfgdskjfgdkjfgdg</h1>
+<h1>Jahid+Nabila</h1>
 <h1>I am jahid </h1>
 <h1>Pathan</h1>
 <h1>hello </h1>
