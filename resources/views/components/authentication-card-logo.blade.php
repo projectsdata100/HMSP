@@ -6,8 +6,8 @@
 </a>-->
     <img src="{{ asset('logo/medicalteam.png') }}" width="100px">
     
-<h1>Hasan+Nabila</h1>
-<h1>I am Hasan+Nabila </h1>
+<h1>Yusuf+Nabila</h1>
+<h1>I am Yusuf+Nowshin </h1>
 <h1>Nabila</h1>
 <h1>hello </h1>
 <h1>56</h1>
