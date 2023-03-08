@@ -56,10 +56,17 @@
           <div class="input-group input-navbar">
             <div class="input-group-prepend">
               <span class="input-group-text" id="icon-addon1"><span class="mai-search"></span></span>
+<<<<<<< HEAD
              </div>
             <input type="text" class="form-control" placeholder="Enter keyword.." aria-label="Username" aria-describedby="icon-addon1">
           </div> 
         </form>-->
+=======
+            </div>
+            <input type="text" class="form-control" placeholder="Enter keyword.." aria-label="Username" aria-describedby="icon-addon1">
+          </div> 
+        </form>
+>>>>>>> 4e7056f9dd6b6ce7085f8e75bfd7f8f602159e0b
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupport" aria-controls="navbarSupport" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
