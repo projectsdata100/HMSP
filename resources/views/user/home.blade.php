@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="../assets/css/theme.css">
 </head>
 <body>
-
+<h1>Test Error</h1>
   <!-- Back to top button -->
   <div class="back-to-top"></div>
 
@@ -47,8 +47,6 @@
         </div> <!-- .row -->
       </div> <!-- .container -->
     </div> <!-- .topbar -->
-
-    <h1>Change Test</h1>
 
     <nav class="navbar navbar-expand-lg navbar-light shadow-sm">
       <div class="container">
