@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="../assets/css/theme.css">
 </head>
 <body>
-<h1>Test Error</h1>
+
   <!-- Back to top button -->
   <div class="back-to-top"></div>
 
@@ -52,14 +52,14 @@
       <div class="container">
         <a class="navbar-brand" href="{{url('/')}}"><span class="text-primary">One</span>-Health</a>
 
-        <form action="#">
+        <!--<form action="#">
           <div class="input-group input-navbar">
             <div class="input-group-prepend">
               <span class="input-group-text" id="icon-addon1"><span class="mai-search"></span></span>
-            <!-- </div>
+             </div>
             <input type="text" class="form-control" placeholder="Enter keyword.." aria-label="Username" aria-describedby="icon-addon1">
-          </div> -->
-        </form>
+          </div> 
+        </form>-->
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupport" aria-controls="navbarSupport" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
