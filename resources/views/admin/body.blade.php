@@ -1,5 +1,5 @@
 <div class="main-panel">
-          <div class="content-wrapper">
+          <!--<div class="content-wrapper">
             <div class="row">
               <div class="col-12 grid-margin stretch-card">
                 <div class="card corona-gradient-card">
@@ -21,7 +21,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div>-->
             <div class="row">
               <div class="col-xl-3 col-sm-6 grid-margin stretch-card">
                 <div class="card">
@@ -135,7 +135,7 @@
                 <div class="card">
                   <div class="card-body">
                     <div class="d-flex flex-row justify-content-between">
-                      <h4 class="card-title mb-1">Open Projects</h4>
+                      <h4 class="card-title mb-1">Hospital Basic Information</h4>
                       <p class="text-muted mb-1">Your data status</p>
                     </div>
                     <div class="row">
@@ -149,12 +149,12 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">Admin dashboard design</h6>
-                                <p class="text-muted mb-0">Broadcast web app mockup</p>
+                                <h6 class="preview-subject">HelpLine Number </h6>
+                                <p class="text-muted mb-0">01723405670</p>
                               </div>
                               <div class="me-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">15 minutes ago</p>
-                                <p class="text-muted mb-0">30 tasks, 5 issues </p>
+                                <!--<p class="text-muted mb-0">30 tasks, 5 issues </p>-->
                               </div>
                             </div>
                           </div>
@@ -166,12 +166,12 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">Wordpress Development</h6>
-                                <p class="text-muted mb-0">Upload new design</p>
+                                <h6 class="preview-subject">Hospital Address</h6>
+                                <p class="text-muted mb-0">Rupnagar_Mirpur-2</p>
                               </div>
                               <div class="me-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">1 hour ago</p>
-                                <p class="text-muted mb-0">23 tasks, 5 issues </p>
+                                <!--<p class="text-muted mb-0">23 tasks, 5 issues </p>-->
                               </div>
                             </div>
                           </div>
@@ -183,12 +183,12 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">Project meeting</h6>
-                                <p class="text-muted mb-0">New project discussion</p>
+                                <h6 class="preview-subject">Hospital meeting</h6>
+                                <p class="text-muted mb-0">New discussion</p>
                               </div>
                               <div class="me-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">35 minutes ago</p>
-                                <p class="text-muted mb-0">15 tasks, 2 issues</p>
+                                <!--<p class="text-muted mb-0">15 tasks, 2 issues</p>-->
                               </div>
                             </div>
                           </div>
@@ -200,12 +200,12 @@
                             </div>
                             <div class="preview-item-content d-sm-flex flex-grow">
                               <div class="flex-grow">
-                                <h6 class="preview-subject">Broadcast Mail</h6>
-                                <p class="text-muted mb-0">Sent release details to team</p>
+                                <h6 class="preview-subject">HelpLine Mail</h6>
+                                <p class="text-muted mb-0">mdjahihasan790523@gmail.co</p>
                               </div>
                               <div class="me-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">55 minutes ago</p>
-                                <p class="text-muted mb-0">35 tasks, 7 issues </p>
+                                <!--<p class="text-muted mb-0">35 tasks, 7 issues </p>-->
                               </div>
                             </div>
                           </div>
@@ -222,7 +222,7 @@
                               </div>
                               <div class="me-auto text-sm-right pt-2 pt-sm-0">
                                 <p class="text-muted">50 minutes ago</p>
-                                <p class="text-muted mb-0">27 tasks, 4 issues </p>
+                               <!-- <p class="text-muted mb-0">27 tasks, 4 issues </p>-->
                               </div>
                             </div>
                           </div>
@@ -256,7 +256,7 @@
               <div class="col-sm-4 grid-margin">
                 <div class="card">
                   <div class="card-body">
-                    <h5>Sales</h5>
+                    <h5>Medicine Sales</h5>
                     <div class="row">
                       <div class="col-8 col-sm-12 col-xl-8 my-auto">
                         <div class="d-flex d-sm-block d-md-flex align-items-center">
@@ -275,7 +275,7 @@
               <div class="col-sm-4 grid-margin">
                 <div class="card">
                   <div class="card-body">
-                    <h5>Purchase</h5>
+                    <h5>Medicine Purchase</h5>
                     <div class="row">
                       <div class="col-8 col-sm-12 col-xl-8 my-auto">
                         <div class="d-flex d-sm-block d-md-flex align-items-center">
@@ -665,8 +665,8 @@
           <!-- partial:partials/_footer.html -->
           <footer class="footer">
             <div class="d-sm-flex justify-content-center justify-content-sm-between">
-              <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © bootstrapdash.com 2021</span>
-              <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> Free <a href="https://www.bootstrapdash.com/bootstrap-admin-template/" target="_blank">Bootstrap admin template</a> from Bootstrapdash.com</span>
+              <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © bootstrapdash.com 2023</span>
+              <!--<span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center"> Free <a href="https://www.bootstrapdash.com/bootstrap-admin-template/" target="_blank">Bootstrap admin template</a> from Bootstrapdash.com</span>-->
             </div>
           </footer>
           <!-- partial -->
