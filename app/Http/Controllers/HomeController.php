@@ -77,11 +77,18 @@ class HomeController extends Controller
 
         if(Auth::id())
         {
+            
+            if(auth::user()->usertype==0)
+            {
+                $userid = Auth::user()->id;
+                $appoint = appointment::where('user_id', $userid)->get();
+    
+                return view('user.my_appointment', compact('appoint')); 
 
-            $userid = Auth::user()->id;
-            $appoint = appointment::where('user_id', $userid)->get();
 
-            return view('user.my_appointment', compact('appoint'));
+            }
+
+            
         }
         else
         {
