@@ -37,12 +37,12 @@
             </div>
           </div>
           <div class="col-sm-4 text-right text-sm">
-            <div class="social-mini-button">
+            <!--<div class="social-mini-button">
               <a href="#"><span class="mai-logo-facebook-f"></span></a>
               <a href="#"><span class="mai-logo-twitter"></span></a>
               <a href="#"><span class="mai-logo-dribbble"></span></a>
               <a href="#"><span class="mai-logo-instagram"></span></a>
-            </div>
+            </div>-->
           </div>
         </div> <!-- .row -->
       </div> <!-- .container -->
@@ -56,17 +56,16 @@
           <div class="input-group input-navbar">
             <div class="input-group-prepend">
               <span class="input-group-text" id="icon-addon1"><span class="mai-search"></span></span>
-<<<<<<< HEAD
+
              </div>
             <input type="text" class="form-control" placeholder="Enter keyword.." aria-label="Username" aria-describedby="icon-addon1">
           </div> 
-        </form>-->
-=======
+        </form>
             </div>
             <input type="text" class="form-control" placeholder="Enter keyword.." aria-label="Username" aria-describedby="icon-addon1">
           </div> 
-        </form>
->>>>>>> 4e7056f9dd6b6ce7085f8e75bfd7f8f602159e0b
+        </form>-->
+
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupport" aria-controls="navbarSupport" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -77,7 +76,7 @@
             <li class="nav-item active">
               <a class="nav-link" href="{{url('/')}}">Home</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
               <a class="nav-link" href="about.html">About Us</a>
             </li>
             <li class="nav-item">
@@ -88,7 +87,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.html">Contact</a>
-            </li>
+            </li>-->
 
             @if (Route::has('login'))
 
@@ -145,13 +144,13 @@
       <div class="container text-center wow zoomIn">
         <span class="subhead">Let's make your life happier</span>
         <h1 class="display-4">Healthy Living</h1>
-        <a href="#" class="btn btn-primary">Let's Consult</a>
+        <!--<a href="#" class="btn btn-primary">Let's Consult</a>-->
       </div>
     </div>
   </div>
 
 
-  <div class="bg-light">
+  <!--<div class="bg-light">
     <div class="page-section py-3 mt-md-n5 custom-index">
       <div class="container">
         <div class="row justify-content-center">
@@ -181,7 +180,7 @@
           </div>
         </div>
       </div>
-    </div> <!-- .page-section -->
+    </div>--> <!-- .page-section -->
 
     <div class="page-section pb-0">
       <div class="container">
@@ -210,7 +209,7 @@
   
 
   <footer class="page-footer">
-    <div class="container">
+    <!--<div class="container">
       <div class="row px-md-3">
         <div class="col-sm-6 col-lg-3 py-3">
           <h5>Company</h5>
@@ -237,27 +236,27 @@
             <li><a href="#">One-Drugs</a></li>
             <li><a href="#">One-Live</a></li>
           </ul>
-        </div>
+        </div>-->
         <div class="col-sm-6 col-lg-3 py-3">
           <h5>Contact</h5>
           <p class="footer-link mt-2">Road-9, Rupnagar_Mirpur-2, Dhaka 1216</p>
           <a href="#" class="footer-link">01760790523</a>
           <a href="#" class="footer-link">jahid@example.com</a>
 
-          <h5 class="mt-3">Social Media</h5>
+          <!--<h5 class="mt-3">Social Media</h5>
           <div class="footer-sosmed mt-3">
             <a href="#" target="_blank"><span class="mai-logo-facebook-f"></span></a>
             <a href="#" target="_blank"><span class="mai-logo-twitter"></span></a>
             <a href="#" target="_blank"><span class="mai-logo-google-plus-g"></span></a>
             <a href="#" target="_blank"><span class="mai-logo-instagram"></span></a>
             <a href="#" target="_blank"><span class="mai-logo-linkedin"></span></a>
-          </div>
+          </div>-->
         </div>
       </div>
 
       <hr>
 
-      <p id="copyright">Copyright &copy; 2023 <a href="https://macodeid.com/" target="_blank">MACode ID</a>. All right reserved</p>
+      <p id="copyright">Copyright &copy; 2023. All right reserved</p>
     </div>
   </footer>
 

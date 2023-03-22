@@ -70,7 +70,7 @@
             <li class="nav-item active">
               <a class="nav-link" href="{{url('/')}}">Home</a>
             </li>
-            <li class="nav-item">
+            <!--<li class="nav-item">
               <a class="nav-link" href="about.html">About Us</a>
             </li>
             <li class="nav-item">
@@ -81,7 +81,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.html">Contact</a>
-            </li>
+            </li>-->
 
             @if (Route::has('login'))
 
